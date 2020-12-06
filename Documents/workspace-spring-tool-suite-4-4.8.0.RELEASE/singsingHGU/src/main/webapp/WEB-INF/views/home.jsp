@@ -22,7 +22,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("image/background.png");
+  background-image: url("image/background3.jpg");
   min-height: 100%;
 }
 
@@ -91,7 +91,7 @@ body, html {
     <div class="w3-quarter">
       <img src="image/icon2.png" alt="Girl in a jacket" width="50" height="60">
       <p class="w3-large">킥보드 사용 신청을 하고</p>
-      <p>킥보드 사용 등록을 한다.</p>
+      <p>킥보드 고유번호를 입력하여 사용 등록을 한다.</p>
     </div>
     <div class="w3-quarter">
       <img src="image/icon2.png" width="50" height="60">
@@ -196,7 +196,7 @@ body, html {
       </p>
     </form>
     <!-- Image of location/map -->
-    <img src="image/background.png" class="w3-image w3-greyscale" style="width:100%;margin-top:48px">
+    <img src="image/background3.jpg" class="w3-image w3-greyscale" style="width:100%;margin-top:48px">
   </div>
 </div>
 
@@ -211,7 +211,7 @@ body, html {
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
   </div>
-  <p>Powered by <a href="https://boyoung.herokuapp.com/" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p>Powered by <a href="https://boyoung.herokuapp.com/" title="W3.CSS" target="_blank" class="w3-hover-text-green">씽씽한동</a></p>
 </footer>
  
 <script>
